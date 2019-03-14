@@ -1610,7 +1610,7 @@ input, select, textarea {
 
 		#banner h2 {
 			font-size: 3.3em;
-			color: #fff;
+			color: rgb(235, 18, 18);
 			text-align: center;
 			letter-spacing: -2px;
 			margin: 0;
@@ -1621,7 +1621,7 @@ input, select, textarea {
 			left: 0;
 			margin: 0.5em 0 0 0;
 			font-size: 1.6em;
-			color: #fff;
+			color: rgb(235, 18, 18);
 			letter-spacing: -1px;
 			text-transform: lowercase;
 			opacity: 0.8;
@@ -1982,6 +1982,7 @@ input, select, textarea {
 					font-size: 1.25em;
 					letter-spacing: -1px;
 					line-height: 1.25em;
+					
 				}
 
 		/* Main */
